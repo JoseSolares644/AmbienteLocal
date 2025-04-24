@@ -5,7 +5,7 @@ AmienteLocal
 
 
 ##### Autor
-José Roberto Solares Lara
+José Roberto Solares Lara.
 
 ##### Descripción
 
